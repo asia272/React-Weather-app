@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+h1{
+  margin-bottom: 10px;
+}
+body{
+  display: flex;
+  justify-content: center;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  gap: 30px;
+  border: 1px solid black;
+
+}
