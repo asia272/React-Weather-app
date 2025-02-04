@@ -10,14 +10,9 @@ A dynamic weather application built with **React.js & Material-UI**, displaying 
 - 🔥 **Hot, Cold, and Rainy conditions handled visually**
 
 ## 🛠️ Technologies Used
-- **React.js** (Frontend)
-- **Material-UI** (UI Components)
-- **OpenWeather API** (Weather Data)
-- **Unsplash API** (Dynamic Images)
-
-## 📷 UI Preview
-![Weather App UI](https://your-image-url.com)  
-_(Replace with a screenshot of your app)_
+- **React.js**
+- **Material-UI** 
+- **OpenWeather API**
 
 ## 🏗️ Installation & Setup
 1️⃣ **Clone the repository**
